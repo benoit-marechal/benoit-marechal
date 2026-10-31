@@ -4,7 +4,7 @@ Formateur IT indépendant depuis septembre 2026 et ingénieur DevOps, je m’app
 
 Mes domaines d’intervention : **fondamentaux du cloud et d’AWS, Linux/RHEL et Docker**. Je développe également mon offre autour des **usages de l’IA générative dans les SI**, avec Amazon Bedrock comme prochain axe de spécialisation.
 
-Je prépare deux modules confiés par des écoles : **Ynov M1, IaaS et réseaux virtualisés sur OpenStack/OVHcloud, 28 h**, et **ESGI M1, Cloud Computing AWS, 21 h**. Je privilégie les démonstrations, les exercices pratiques et le raisonnement technique.
+Je prépare deux modules confiés par des écoles : **Ynov M1, IaaS et réseaux virtualisés sur OpenStack/OVHcloud**, et **ESGI M1, Cloud Computing AWS**. Je privilégie les démonstrations, les exercices pratiques et le raisonnement technique.
 
 ## Projets partagés
 
